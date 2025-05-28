@@ -1,12 +1,6 @@
 # Hi there, I'm Šimon Novák! 👋👋
 
-## 👨‍💻 About Me
-
-- 🔭 I’m currently working on making the best software for myself
-- 🌱 I’m currently learning advanced Python and C# programming
-- 💬 Ask me about anything tech-related, especially C#
 - 📫 How to reach me: [sn@snovak.cz](mailto:sn@snovak.cz)
-- ⚡ Fun fact: I am working in Windows but I hate it!
 
 ## 📊 My GitHub Stats
 
@@ -25,12 +19,12 @@
 
 ## 📚 Recent Projects
 
-- **[Magic Orbwalker](https://github.com/sajmonekk191/MagicOrbwalker)**: External orbwalker for League of Legends.
-- **[Sos-Game](https://github.com/sajmonekk191/SosGame)**: Online game for testing your knowledge in everything with Level Editor.
-- **[VoidSharp](https://github.com/sajmonekk191/V2)**: External scripting platform for League of Legends with orbwalker, auto aim, auto QSS, champion scripts, and more.
+- **[Magic Orbwalker](https://github.com/sajmonekk191/MagicOrbwalker)**
+- **[Sos-Game](https://github.com/sajmonekk191/SosGame)**
+- **[VoidSharp](https://github.com/sajmonekk191/V2)**
 
 ## 🌐 Connect with Me
 
 - [Facebook](https://www.facebook.com/simon.novak.7773/)
 - [Instagram](https://www.instagram.com/sajmonekk11/)
-- [Email](mailto:sn@voidgear.space)
+- [Email](mailto:sn@snovak.cz)
