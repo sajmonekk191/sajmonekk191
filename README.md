@@ -20,7 +20,7 @@
 ## 📚 Recent Projects
 
 - **[Magic Orbwalker](https://github.com/sajmonekk191/MagicOrbwalker)**
-- **[Sos-Game](https://github.com/sajmonekk191/SosGame)**
+- **[Project-V](https://github.com/sajmonekk191/V_Stack)**
 - **[VoidSharp](https://github.com/sajmonekk191/V2)**
 
 ## 🌐 Connect with Me
