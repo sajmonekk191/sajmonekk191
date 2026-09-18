@@ -21,7 +21,7 @@
 
 - **[VoidMac](https://github.com/sajmonekk191/VoidMac)**
 - **[Magic Orbwalker](https://github.com/sajmonekk191/MagicOrbwalker)**
-- **[VoidSharp](https://github.com/sajmonekk191/V2) Outdated**
+- **[VoidSharp](https://github.com/sajmonekk191/V2) (Outdated)**
 
 ## 🌐 Connect with Me
 
