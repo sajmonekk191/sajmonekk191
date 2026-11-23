@@ -10,4 +10,5 @@
 
 - [Facebook](https://www.facebook.com/simon.novak.7773/)
 - [Instagram](https://www.instagram.com/sajmonekk11/)
+- [LinkedIN](https://www.linkedin.com/in/%C5%A1imon-nov%C3%A1k-226919319/)
 - [Email](mailto:sn@snovak.cz)
